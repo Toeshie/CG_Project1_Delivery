@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\CG_Delivery\\CG_Project1_Delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724C80CF-A8A5-43C6-8241-1D9C93DC98DF}|CG_Project1\\CG_Project1.vcxproj|C:\\Users\\Pedro\\Desktop\\CG_Delivery\\CG_Project1_Delivery\\CG_Project1\\CG_Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{724C80CF-A8A5-43C6-8241-1D9C93DC98DF}|CG_Project1\\CG_Project1.vcxproj|solutionrelative:CG_Project1\\CG_Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CG_Project1.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\CG_Delivery\\CG_Project1_Delivery\\CG_Project1\\CG_Project1.cpp",
+              "RelativeDocumentMoniker": "CG_Project1\\CG_Project1.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\CG_Delivery\\CG_Project1_Delivery\\CG_Project1\\CG_Project1.cpp",
+              "RelativeToolTip": "CG_Project1\\CG_Project1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T02:34:57.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

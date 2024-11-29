@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  CG_Project1.cpp
+  Character.cpp
+  Crosshair.cpp
+  OBJLoader.cpp
+  Renderer.cpp
+  ShaderProgram.cpp
+  Skybox.cpp
+  stb_image.cpp
+  WindowManager.cpp
+  Generating Code...
+  CG_Project1.vcxproj -> C:\Users\Pedro\Desktop\CG_Delivery\CG_Project1_Delivery\x64\Debug\CG_Project1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
